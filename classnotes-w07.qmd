@@ -116,7 +116,9 @@ Clear rules and clear norms won’t eliminate every conflict over AI. But by tak
 # Week 7 Topics and Assignments
 
 -   Class Participation
--   GitHub publication
+-   GitHub publication (two ways)
+    1.  using Terminal
+    2.  using Preview + GitHub repo Settings
 -   Core concepts and process
 -   Assignments for assigned this week
 
