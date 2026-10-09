@@ -1,0 +1,48 @@
+---
+title: "Class notes for Week 06"
+author: "Jae Jung"
+date: today
+format: 
+    html: 
+       toc: true
+       toc-depth: 3
+       toc-expand: 1
+       toc-location: right
+       embed-resources: true
+---
+
+# Announcement
+
+-   Google Certifications free for CPP Students
+
+-   CEP Writtten Report Template changes in Ch1 and Ch3
+
+-   What is PO and in which chapters will they be mentioned?
+
+-   What is AO and in which chapters will they be mentioned?
+
+# Overview of Week 06 and More
+
+-   CEP assignments for survey data prior to Week 9
+
+-   CEP assignments for GA4 data prior to Week 9
+
+# Week 6 Topics and Assignments
+
+-   Assignments for assigned this week
+
+# CEP Presentation on CEP 03 - Revision of Ch1 and Lit Review of Ch2
+
+-   Group 9
+
+-   Group 8
+
+-   Group 4
+
+-   Group 2
+
+# CEP Group Meeting
+
+-   I could not create breakout room since my host status was given to one of the students erroneously.
+
+-   Class ended when the student who assumed host status left the Zoom room.
