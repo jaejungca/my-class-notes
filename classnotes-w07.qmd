@@ -65,7 +65,7 @@ Take Sara and her colleague Scott. Sara may not care if Scott in the cubicle nex
 
 There is a good chance that even if Sara did confront Scott, he’ll deny at least some of it.
 
-KPMG found that among 48,000 employees, about[ 57% admitted](https://kpmg.com/xx/en/media/press-releases/2025/04/trust-of-ai-remains-a-critical-challenge.html) to trying to pass AI content off as their own. And that is because despite its ubiquity, there is a very strong bias against using it. We label those who[ outsource their work](https://www.sciencedirect.com/science/article/pii/S0747563225003413) to AI as lazier and less moral, and we think they value their work less than those who don’t.
+KPMG found that among 48,000 employees, about[57% admitted](https://kpmg.com/xx/en/media/press-releases/2025/04/trust-of-ai-remains-a-critical-challenge.html) to trying to pass AI content off as their own. And that is because despite its ubiquity, there is a very strong bias against using it. We label those who[outsource their work](https://www.sciencedirect.com/science/article/pii/S0747563225003413) to AI as lazier and less moral, and we think they value their work less than those who don’t.
 
 If you think a work email or text was written with the help of AI, you see it as [less genuine](https://www.sciencedirect.com/science/article/pii/S0747563226001937) than those written presumably by a person, and the writer as less competent. If we think people we’re interacting with are using AI to autofill their texts with [“smart replies”](https://www.nature.com/articles/s41598-023-30938-9) (“I hope you’re doing…*really well today!*”), we see them as less cooperative and more dominant, and we like them less than if we think they finished those sentences on their own.
 
@@ -77,7 +77,7 @@ Sara’s not just worried that Scott can’t perform in front of a client, she m
 
 After living in a world saturated with AI content, most of us are pretty confident that we can detect the signs of AI in emails, text messages, images and reports. If Sara suspects Scott of using AI, she probably has a good reason for it.
 
-Except she doesn’t: Despite all of this exposure, we’re no better than chance at detecting AI content—between[ 50% and 54%](https://www.pnas.org/doi/10.1073/pnas.2208839120) on average. Detecting AI is like trying to detect lies: In most cases, there is no single signature that gives AI away, aside from hallucinations. Instead, people rely on the wrong cues, such as how impersonal, monotonous, or how long an email is, in deciding whether AI played a role.
+Except she doesn’t: Despite all of this exposure, we’re no better than chance at detecting AI content—between[50% and 54%](https://www.pnas.org/doi/10.1073/pnas.2208839120) on average. Detecting AI is like trying to detect lies: In most cases, there is no single signature that gives AI away, aside from hallucinations. Instead, people rely on the wrong cues, such as how impersonal, monotonous, or how long an email is, in deciding whether AI played a role.
 
 Sara’s judgments of Scott are based on a coin flip, and one she doesn’t know she’s made. She just knows she resents Scott for using AI.
 
@@ -107,8 +107,6 @@ Clear rules and clear norms won’t eliminate every conflict over AI. But by tak
 
 # Overview of Week 07 and More
 
--   
-
 -   CEP assignments for survey data prior to Week 9
 
 -   CEP assignments for GA4 data prior to Week 9
@@ -124,16 +122,4 @@ Clear rules and clear norms won’t eliminate every conflict over AI. But by tak
 
 # CEP Presentation on Construct and Measurement Table and Questionnaire
 
--   Group 9
-
--   Group 8
-
--   Group 4
-
--   Group 2
-
-# CEP Group Meeting
-
--   I could not create breakout room since my host status was given to one of the students erroneously.
-
--   Class ended when the student who assumed host status left the Zoom room.
+-   Group 1
