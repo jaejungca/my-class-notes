@@ -1,0 +1,53 @@
+---
+title: "Class notes for Week 06"
+author: "Jae Jung"
+date: today
+format: 
+    html: 
+        toc: true
+        toc-depth: 3
+        toc-expand: 1
+        toc-location: right
+        embed-resources: true
+---
+
+# Introduction
+
+# Survey Design and Data Collection
+
+# IRB Application
+
+-   <https://www.cpp.edu/research/research-compliance/irb/protocol.shtml>
+
+# Initial Presentation
+
+## Presentation Schedule
+
+## MSDM Initial Proposal Presentation I (Monday IBM 6200):
+
+Signup Sheet: [Click Here](https://livecsupomona-my.sharepoint.com/:w:/g/personal/jmjung_cpp_edu/IQDdVGeVxRBYRrt0dTTOf3GlAd575iU7E47Ql8IjuMfzGB8?e=H2fieS)
+
+Date: Oct. 19, 2026
+
+|  |  |  |  |  |
+|--------------|--------------|--------------|---------------|----------------|
+| **Time** | **Group Number** | **Faculty Lead** | **Client** | **Note** |
+| 7:00 - 7:28 | Group 9 | Dr. Kwok | RKR | Faculty preferred this time slot |
+| 7:30 - 7:58 | Group 6 | Dr. Yi Xie | PhD Orthodontics |  |
+| 8:00 - 8:25 | Group 7 | Dr. Min | Avenue Shabu |  |
+| 8:30 - 8:58 | Group 2 | Prof. Porter | Glendora Education Foundation |  |
+| 9:00 – 9:28 | Group 1 | Prof. Moore | CVRx | Faculty preferred this time slot |
+
+## MSDM Initial Proposal Presentation II (Thursday IBM 6500): 
+
+Date: Oct. 22, 2026
+
+|             |                  |                 |                 |          |
+|-------------|------------------|-----------------|-----------------|----------|
+| **Time**    | **Group Number** | **Faulty Lead** | **Client**      | **Note** |
+| 7:00 - 7:28 | Group 3          | Dr. Kwok        | Collins College |          |
+| 7:30 - 7:58 | Group 8          | Dr. Lin         | TBIF            |          |
+| 8:00 - 8:25 | Group 4          | Dr. Zhang       | Wellness Ranch  |          |
+| 8:30 - 8:58 | Group 5          | Dr. Jung        | CPP Farm Store  |          |
+
+## Presentation Slides with Story Telling
